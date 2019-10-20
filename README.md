@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/tendaim/tendai_dev_ops/_apis/build/status/tendai-zw.pipelines-java?branchName=master)](https://dev.azure.com/tendaim/tendai_dev_ops/_build/latest?definitionId=1&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
